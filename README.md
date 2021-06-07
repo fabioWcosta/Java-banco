@@ -1,2 +1,2 @@
 # Java banco
- projeto de OO
+ Projeto inicial de OO
